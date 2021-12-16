@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 dev2 for C 
+=======
+dev 1 chansge in c
+dev2 change in C
