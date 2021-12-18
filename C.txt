@@ -1,5 +1,6 @@
 dev 1 chansge in c
 //////
+<<<<<<< HEAD
 dev 1 changedev 1 chansge in c
 //////
 dev 1 changedev 1 chansge in c
@@ -16,3 +17,9 @@ dev 1 changedev 1 chansge in c
 //////
 dev 1 change
 CCCCCCCCCCCCCCCCCCCCC
+=======
+18-12
+priyanka aptil
+@@@@@@@
+------------------
+>>>>>>> master
