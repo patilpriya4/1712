@@ -1,24 +1,4 @@
 dev 1 chansge in c
 //////
-<<<<<<< HEAD
 18-12
 priyanka aptil
-=======
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 changedev 1 chansge in c
-//////
-dev 1 change
-CCCCCCCCCCCCCCCCCCCCC
->>>>>>> parent of f73d0b9 (todays first)
-*************************************
