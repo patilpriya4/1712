@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+D file by dev1
+=======
+>>>>>>> 68e418994b61accc620ff04a170ee8b1e5b9e6c8
 D file by dev1
 D file by dev1
 22222222222
@@ -9,3 +15,7 @@ change by d2222222222222
 change by d2222222222222
 111111111111111111111111111111
 >>>>>>> 467f19494c9d27b15f0ae688eed0339a842a5431
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> 68e418994b61accc620ff04a170ee8b1e5b9e6c8
